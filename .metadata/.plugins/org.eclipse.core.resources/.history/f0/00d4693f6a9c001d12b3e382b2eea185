@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- 
+	주석
+	단축키 : Ctrl + Shift + /
+	
+	HTML : Hyper Text Mark-up Language
+	
+	Tag 형식 구성
+	<tagname></tagname> - 여러줄 표현
+	<tagname /> - 한줄 표현
+	<tagname> - 태그명만으로 표현하는 경우도 있음
+	<tagname 속성(attribute)=값>텍스트</tagname>
+ -->
+	<h1>Hello HTML</h1>
+	<h2>Hello HTML</h2>
+	<h3>Hello HTML</h3>
+	<h4>Hello HTML</h4>
+	<h5>Hello HTML</h5>
+	<h6>Hello HTML</h6>
+</body>
+</html>
