@@ -28,6 +28,7 @@
 	<section name="ZipFileImportWizard">
 		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
 		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\ahgus\Desktop\sample1.zip"/>
 			<item value="C:\Users\ahgus\Desktop\multiCampus\Java\Java.zip"/>
 			<item value="C:\Users\ahgus\Desktop\multiCampus\Java\AccountBook2.zip"/>
 		</list>
