@@ -1,7 +1,0 @@
-INDEX VERSION 1.131+C:\Users\ahgus\Desktop\multiCampus\HTML\.metadata\.plugins\org.eclipse.jdt.core
-1285365142.index
-1654373581.index
-3801006319.index
-2508845177.index
-1865797976.index
-2072482133.index

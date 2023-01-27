@@ -1,9 +1,0 @@
-INDEX VERSION 1.4+C:\Users\ahgus\Desktop\multiCampus\HTML\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-4188467619.index
-997322855.index
-3801006319.index
-1654373581.index
-1760275427.index
-2072482133.index
-2508845177.index
-4014825632.index
